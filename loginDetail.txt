@@ -1,0 +1,2 @@
+default: 12345 54321
+P100 Milk litres 2.50
